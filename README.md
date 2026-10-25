@@ -1,4 +1,4 @@
-# Radyo Digoseño — Android Releases
+# Radyo Digoseño Online Radio - Android Releases
 
 This public repository hosts signed Android APK releases for Radyo Digoseño.
 
